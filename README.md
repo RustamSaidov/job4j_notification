@@ -18,6 +18,7 @@ Java 17, Maven 3.8, PostgreSQL 14
 
 1) Скачайте проект job4j_notification.
 2) Запустите приложение активировав метод main() в файле NotificationApplication.java
+
 #### Взаимодействие с приложением
 
 #### Контакты
